@@ -21,3 +21,5 @@ node .
 ### [Invite](https://discord.com/api/oauth2/authorize?client_id=863795370911334420&permissions=0&scope=bot)
 
 ### Boom! The bot is running on your machine!
+
+<p>New features are on the way </p>
