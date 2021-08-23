@@ -13,7 +13,7 @@
 </ul>
 
 # How to run bot locally!
-```node
+```bash
 git clone https://github.com/Ashtamcode/Public-Bot-Code.git
 cd Public-Bot-Code
 node .
